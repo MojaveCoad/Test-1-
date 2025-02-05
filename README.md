@@ -68,9 +68,9 @@
     </section>
     <section id="contact">
         <h2>Contact</h2>
-        <p>Email: [Your Email Address]</p>  <p>LinkedIn: [Your LinkedIn Profile URL]</p> </section>
+        <p>Email: [Your Email Address]</p>  <p>LinkedIn: [[Your LinkedIn Profile URL](https://www.linkedin.com/in/michaelrcoad/)]</p> </section>
     <footer>
-        <p>&copy; 2024 Michael R. Coad</p>
+        <p>&copy; 2025 Michael R. Coad</p>
     </footer>
     <script src="script.js"></script> </body>
 </html>
